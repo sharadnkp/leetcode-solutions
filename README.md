@@ -20,11 +20,13 @@ problem-solving skills.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/sharadnkp/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/sharadnkp/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/sharadnkp/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/sharadnkp/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sharadnkp/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -54,4 +56,8 @@ problem-solving skills.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sharadnkp/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
