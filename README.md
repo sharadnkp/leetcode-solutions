@@ -25,6 +25,7 @@ problem-solving skills.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/sharadnkp/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sharadnkp/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -37,5 +38,10 @@ problem-solving skills.
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/sharadnkp/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sharadnkp/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sharadnkp/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
