@@ -22,6 +22,7 @@ problem-solving skills.
 | [0001-two-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/sharadnkp/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/sharadnkp/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,4 +66,8 @@ problem-solving skills.
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Math
+|  |
+| ------- |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 <!---LeetCode Topics End-->
