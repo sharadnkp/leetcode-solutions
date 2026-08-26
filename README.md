@@ -22,6 +22,7 @@ problem-solving skills.
 | [0001-two-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/sharadnkp/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/sharadnkp/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0724-find-pivot-index](https://github.com/sharadnkp/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
@@ -74,5 +75,6 @@ problem-solving skills.
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/sharadnkp/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
