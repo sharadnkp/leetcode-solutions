@@ -60,6 +60,7 @@ problem-solving skills.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/sharadnkp/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -78,6 +79,7 @@ problem-solving skills.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Math
 |  |
@@ -103,4 +105,8 @@ problem-solving skills.
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
