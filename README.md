@@ -27,6 +27,7 @@ problem-solving skills.
 | [0525-contiguous-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sharadnkp/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sharadnkp/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/sharadnkp/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sharadnkp/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0930-binary-subarrays-with-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sharadnkp/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -84,6 +85,7 @@ problem-solving skills.
 | ------- |
 | [0020-valid-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/sharadnkp/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/sharadnkp/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sharadnkp/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/sharadnkp/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -129,4 +131,8 @@ problem-solving skills.
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/sharadnkp/leetcode-solutions/tree/master/0901-online-stock-span) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/sharadnkp/leetcode-solutions/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
