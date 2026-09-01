@@ -42,6 +42,7 @@ problem-solving skills.
 | [0001-two-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/sharadnkp/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/sharadnkp/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/sharadnkp/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sharadnkp/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/sharadnkp/leetcode-solutions/tree/master/0383-ransom-note) |
@@ -58,6 +59,7 @@ problem-solving skills.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sharadnkp/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sharadnkp/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/sharadnkp/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
@@ -171,6 +173,7 @@ problem-solving skills.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sharadnkp/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/sharadnkp/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sharadnkp/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -181,4 +184,5 @@ problem-solving skills.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sharadnkp/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
