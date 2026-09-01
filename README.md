@@ -45,6 +45,7 @@ problem-solving skills.
 | [0349-intersection-of-two-arrays](https://github.com/sharadnkp/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/sharadnkp/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/sharadnkp/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/sharadnkp/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -72,6 +73,7 @@ problem-solving skills.
 | [0242-valid-anagram](https://github.com/sharadnkp/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/sharadnkp/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/sharadnkp/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/sharadnkp/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -158,4 +160,8 @@ problem-solving skills.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sharadnkp/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/sharadnkp/leetcode-solutions/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
