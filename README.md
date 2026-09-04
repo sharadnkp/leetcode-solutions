@@ -41,6 +41,7 @@ problem-solving skills.
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sharadnkp/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sharadnkp/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/sharadnkp/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -128,6 +129,7 @@ problem-solving skills.
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sharadnkp/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sharadnkp/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
 |  |
 | ------- |
