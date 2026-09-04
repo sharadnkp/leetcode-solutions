@@ -38,6 +38,7 @@ problem-solving skills.
 | [1991-find-the-middle-index-in-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sharadnkp/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/sharadnkp/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@ problem-solving skills.
 | [0974-subarray-sums-divisible-by-k](https://github.com/sharadnkp/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [3903-smallest-stable-index-i](https://github.com/sharadnkp/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Pigeonhole Principle
 |  |
 | ------- |
