@@ -1,4 +1,3 @@
-import math
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
         low = 1
@@ -8,7 +7,7 @@ class Solution:
             guess = (low+high)//2
             count = 0
             for i in piles:
-                count += math.ceil(i/guess)
+                count += (i + guess - 1)//guess
             if count<=h:
                 ans = guess
                 high = guess-1
