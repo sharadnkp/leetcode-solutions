@@ -21,6 +21,7 @@ problem-solving skills.
 | ------- |
 | [0001-two-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/sharadnkp/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sharadnkp/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/sharadnkp/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -70,6 +71,7 @@ problem-solving skills.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sharadnkp/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/sharadnkp/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/sharadnkp/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sharadnkp/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -85,6 +87,7 @@ problem-solving skills.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sharadnkp/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/sharadnkp/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sharadnkp/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## String
@@ -225,4 +228,12 @@ problem-solving skills.
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sharadnkp/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sharadnkp/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sharadnkp/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
