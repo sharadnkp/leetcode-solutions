@@ -21,6 +21,7 @@ problem-solving skills.
 | ------- |
 | [0001-two-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0066-plus-one](https://github.com/sharadnkp/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sharadnkp/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sharadnkp/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/sharadnkp/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -137,6 +138,7 @@ problem-solving skills.
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/sharadnkp/leetcode-solutions/tree/master/0066-plus-one) |
 | [0523-continuous-subarray-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sharadnkp/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
