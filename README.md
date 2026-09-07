@@ -20,6 +20,7 @@ problem-solving skills.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/sharadnkp/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/sharadnkp/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sharadnkp/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -100,6 +101,7 @@ problem-solving skills.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sharadnkp/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sharadnkp/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/sharadnkp/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -244,4 +246,8 @@ problem-solving skills.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sharadnkp/leetcode-solutions/tree/master/0075-sort-colors) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sharadnkp/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
