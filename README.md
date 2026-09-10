@@ -144,6 +144,7 @@ problem-solving skills.
 | [0523-continuous-subarray-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sharadnkp/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3870-count-commas-in-range](https://github.com/sharadnkp/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sharadnkp/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
