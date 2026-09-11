@@ -46,6 +46,7 @@ problem-solving skills.
 | [1991-find-the-middle-index-in-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sharadnkp/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sharadnkp/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sharadnkp/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sharadnkp/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -71,6 +72,7 @@ problem-solving skills.
 | [0930-binary-subarrays-with-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sharadnkp/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/sharadnkp/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sharadnkp/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sharadnkp/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
@@ -219,6 +221,7 @@ problem-solving skills.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sharadnkp/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sharadnkp/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -264,4 +267,8 @@ problem-solving skills.
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sharadnkp/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/sharadnkp/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
