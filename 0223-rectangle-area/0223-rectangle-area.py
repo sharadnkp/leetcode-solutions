@@ -9,7 +9,7 @@ class Solution:
         overlap = 0
         if overlap_length>0 and overlap_width>0:
             overlap=overlap_length*overlap_width
-        a=abs(ax2-ax1)*abs(ay2-ay1)
-        b=abs(bx2-bx1)*abs(by2-by1)
+        a=(ax2-ax1)*(ay2-ay1)
+        b=(bx2-bx1)*(by2-by1)
         area=a+b-overlap
         return area
