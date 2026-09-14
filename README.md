@@ -144,6 +144,7 @@ problem-solving skills.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/sharadnkp/leetcode-solutions/tree/master/0066-plus-one) |
+| [0223-rectangle-area](https://github.com/sharadnkp/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0523-continuous-subarray-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/sharadnkp/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sharadnkp/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -277,5 +278,6 @@ problem-solving skills.
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/sharadnkp/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/sharadnkp/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
