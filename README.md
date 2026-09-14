@@ -145,6 +145,7 @@ problem-solving skills.
 | ------- |
 | [0066-plus-one](https://github.com/sharadnkp/leetcode-solutions/tree/master/0066-plus-one) |
 | [0523-continuous-subarray-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0836-rectangle-overlap](https://github.com/sharadnkp/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sharadnkp/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3870-count-commas-in-range](https://github.com/sharadnkp/leetcode-solutions/tree/master/3870-count-commas-in-range) |
@@ -273,4 +274,8 @@ problem-solving skills.
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/sharadnkp/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sharadnkp/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
