@@ -4,11 +4,11 @@ class Solution:
         right=min(ax2,bx2)
         bottom=max(ay1,by1)
         top=min(ay2,by2)
-        dx=right - left
-        dy=top - bottom
+        overlap_length=right - left
+        overlap_width=top - bottom
         overlap = 0
-        if dx>0 and dy>0:
-            overlap=dx*dy
+        if overlap_length>0 and overlap_width>0:
+            overlap=overlap_length*overlap_width
         a=abs(ax2-ax1)*abs(ay2-ay1)
         b=abs(bx2-bx1)*abs(by2-by1)
         area=a+b-overlap
