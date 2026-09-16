@@ -90,6 +90,7 @@ problem-solving skills.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/sharadnkp/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/sharadnkp/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -148,6 +149,7 @@ problem-solving skills.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/sharadnkp/leetcode-solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/sharadnkp/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0223-rectangle-area](https://github.com/sharadnkp/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0523-continuous-subarray-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/sharadnkp/leetcode-solutions/tree/master/0836-rectangle-overlap) |
@@ -290,4 +292,8 @@ problem-solving skills.
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sharadnkp/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
