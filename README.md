@@ -128,6 +128,7 @@ problem-solving skills.
 | [1189-maximum-number-of-balloons](https://github.com/sharadnkp/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2109-adding-spaces-to-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
 | ------- |
@@ -215,6 +216,7 @@ problem-solving skills.
 | ------- |
 | [0735-asteroid-collision](https://github.com/sharadnkp/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [2109-adding-spaces-to-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
