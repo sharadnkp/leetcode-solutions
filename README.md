@@ -106,6 +106,7 @@ problem-solving skills.
 | [0275-h-index-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sharadnkp/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sharadnkp/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/sharadnkp/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sharadnkp/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sharadnkp/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -165,6 +166,7 @@ problem-solving skills.
 | [0069-sqrtx](https://github.com/sharadnkp/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0223-rectangle-area](https://github.com/sharadnkp/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0523-continuous-subarray-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/sharadnkp/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0836-rectangle-overlap](https://github.com/sharadnkp/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sharadnkp/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sharadnkp/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
