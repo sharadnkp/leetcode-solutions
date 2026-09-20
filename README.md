@@ -33,6 +33,7 @@ problem-solving skills.
 | [0240-search-a-2d-matrix-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sharadnkp/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sharadnkp/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/sharadnkp/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -104,6 +105,7 @@ problem-solving skills.
 | [0240-search-a-2d-matrix-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sharadnkp/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sharadnkp/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sharadnkp/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sharadnkp/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -114,6 +116,7 @@ problem-solving skills.
 | [0075-sort-colors](https://github.com/sharadnkp/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/sharadnkp/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sharadnkp/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sharadnkp/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## String
 |  |
 | ------- |
@@ -266,6 +269,7 @@ problem-solving skills.
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sharadnkp/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sharadnkp/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0835-image-overlap](https://github.com/sharadnkp/leetcode-solutions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sharadnkp/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Quicksort
@@ -310,4 +314,8 @@ problem-solving skills.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sharadnkp/leetcode-solutions/tree/master/0069-sqrtx) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sharadnkp/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
