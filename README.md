@@ -47,6 +47,7 @@ problem-solving skills.
 | [0852-peak-index-in-a-mountain-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sharadnkp/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/sharadnkp/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sharadnkp/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sharadnkp/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -120,6 +121,7 @@ problem-solving skills.
 | [0242-valid-anagram](https://github.com/sharadnkp/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sharadnkp/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sharadnkp/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0973-k-closest-points-to-origin](https://github.com/sharadnkp/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -170,6 +172,7 @@ problem-solving skills.
 | [0523-continuous-subarray-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/sharadnkp/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0836-rectangle-overlap](https://github.com/sharadnkp/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/sharadnkp/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sharadnkp/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sharadnkp/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -309,12 +312,14 @@ problem-solving skills.
 | ------- |
 | [0223-rectangle-area](https://github.com/sharadnkp/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/sharadnkp/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/sharadnkp/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sharadnkp/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/sharadnkp/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Newton's Method
 |  |
 | ------- |
@@ -324,8 +329,14 @@ problem-solving skills.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sharadnkp/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0973-k-closest-points-to-origin](https://github.com/sharadnkp/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/sharadnkp/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sharadnkp/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
