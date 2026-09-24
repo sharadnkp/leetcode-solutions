@@ -58,6 +58,7 @@ problem-solving skills.
 | [2109-adding-spaces-to-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sharadnkp/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2706-buy-two-chocolates](https://github.com/sharadnkp/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sharadnkp/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sharadnkp/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sharadnkp/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -134,6 +135,7 @@ problem-solving skills.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sharadnkp/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/sharadnkp/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/sharadnkp/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [2706-buy-two-chocolates](https://github.com/sharadnkp/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 ## String
 |  |
 | ------- |
@@ -260,6 +262,7 @@ problem-solving skills.
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/sharadnkp/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [2706-buy-two-chocolates](https://github.com/sharadnkp/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 ## Linked List
 |  |
 | ------- |
