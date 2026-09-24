@@ -1,7 +1,15 @@
 class Solution:
     def buyChoco(self, prices: List[int], money: int) -> int:
-        x = sorted(prices)
-        y = sum(x[:2])
-        if y>money:
+        smallest = float('inf')
+        second_smallest = float('inf')
+
+        for num in prices:
+            if num < smallest:
+                second_smallest = smallest
+                smallest = num
+            elif num < second_smallest:
+                second_smallest = num
+
+        if (smallest+second_smallest)>money:
             return money
-        return money-y
+        return (money)-(smallest+second_smallest)
