@@ -1,26 +1,34 @@
 class Solution:
-    def braceExpansionII(self, expression):
-        ans = set()
+    def braceExpansionII(self, expression: str) -> List[str]:
+        def build(s):
+            parts = set()
+            curr = {""}
+            i = 0
+            while i < len(s):
+                if s[i] == '{':
+                    j = i
+                    depth = 0
 
-        def dfs(s):
-            r = s.find('}')
-
-            # No braces left
-            if r == -1:
-                ans.add(s)
-                return
-
-            # Find matching '{'
-            l = s.rfind('{', 0, r)
-
-            left = s[:l]
-            right = s[r + 1:]
-
-            # Content inside { }
-            inside = s[l + 1:r]
-
-            for part in inside.split(','):
-                dfs(left + part + right)
-
-        dfs(expression)
-        return sorted(ans)
+                    while True:
+                        if s[j] == '{': depth -= 1
+                        elif s[j] == '}': depth += 1
+                        if depth == 0: break
+                        j += 1
+                    
+                    options = build(s[i + 1: j])
+                    curr = {a + b for a in curr for b in options}
+                    i = j + 1
+                
+                elif s[i] == ',':
+                    parts |= curr
+                    curr = {""}
+                    i += 1
+                
+                else:
+                    curr = {x + s[i] for x in curr}
+                    i += 1
+            
+            parts |= curr
+            return parts
+        
+        return sorted(build(expression))
