@@ -54,6 +54,7 @@ problem-solving skills.
 | [1480-running-sum-of-1d-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sharadnkp/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sharadnkp/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1991-find-the-middle-index-in-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sharadnkp/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -92,6 +93,7 @@ problem-solving skills.
 | [1096-brace-expansion-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/sharadnkp/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sharadnkp/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sharadnkp/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sharadnkp/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sharadnkp/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -154,6 +156,7 @@ problem-solving skills.
 | [1096-brace-expansion-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/sharadnkp/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2109-adding-spaces-to-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
