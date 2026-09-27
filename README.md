@@ -155,6 +155,7 @@ problem-solving skills.
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/sharadnkp/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2109-adding-spaces-to-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
@@ -187,6 +188,7 @@ problem-solving skills.
 | [0901-online-stock-span](https://github.com/sharadnkp/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Math
 |  |
@@ -234,6 +236,7 @@ problem-solving skills.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
