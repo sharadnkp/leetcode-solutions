@@ -200,6 +200,7 @@ problem-solving skills.
 | [0066-plus-one](https://github.com/sharadnkp/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sharadnkp/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0223-rectangle-area](https://github.com/sharadnkp/leetcode-solutions/tree/master/0223-rectangle-area) |
+| [0263-ugly-number](https://github.com/sharadnkp/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0523-continuous-subarray-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/sharadnkp/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
