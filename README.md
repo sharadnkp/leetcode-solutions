@@ -148,6 +148,7 @@ problem-solving skills.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sharadnkp/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/sharadnkp/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/sharadnkp/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -183,6 +184,7 @@ problem-solving skills.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sharadnkp/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/sharadnkp/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -243,6 +245,7 @@ problem-solving skills.
 | ------- |
 | [0020-valid-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sharadnkp/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -402,5 +405,6 @@ problem-solving skills.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0264-ugly-number-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
