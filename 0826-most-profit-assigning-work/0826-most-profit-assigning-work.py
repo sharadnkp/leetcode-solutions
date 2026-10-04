@@ -1,19 +1,13 @@
 class Solution:
     def maxProfitAssignment(self, difficulty: list[int], profit: list[int], worker: list[int]) -> int:
         jobs = sorted(zip(difficulty, profit))
+        max_profit = 0
         worker.sort()
         j = 0
         total = 0
-        heap = []
         for i in worker:
             while j < len(jobs) and i >= jobs[j][0]:
-                heapq.heappush(heap, -jobs[j][1])
+                max_profit = max(max_profit, jobs[j][1])
                 j+=1
-            
-            if not heap:
-                total += 0
-            else:
-                x = heap[0]
-                total += x
-        
-        return -total
+            total += max_profit
+        return total
