@@ -166,6 +166,7 @@ problem-solving skills.
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2109-adding-spaces-to-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
+| [2390-removing-stars-from-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
@@ -201,6 +202,7 @@ problem-solving skills.
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -277,6 +279,7 @@ problem-solving skills.
 | ------- |
 | [0735-asteroid-collision](https://github.com/sharadnkp/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [2109-adding-spaces-to-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
+| [2390-removing-stars-from-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
