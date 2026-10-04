@@ -48,6 +48,7 @@ problem-solving skills.
 | [0835-image-overlap](https://github.com/sharadnkp/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sharadnkp/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/sharadnkp/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/sharadnkp/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sharadnkp/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -108,6 +109,7 @@ problem-solving skills.
 | [0295-find-median-from-data-stream](https://github.com/sharadnkp/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/sharadnkp/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/sharadnkp/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/sharadnkp/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [2109-adding-spaces-to-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 ## Binary Search
 |  |
@@ -139,6 +141,7 @@ problem-solving skills.
 | [0349-intersection-of-two-arrays](https://github.com/sharadnkp/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sharadnkp/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/sharadnkp/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0881-boats-to-save-people](https://github.com/sharadnkp/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/sharadnkp/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1096-brace-expansion-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1834-single-threaded-cpu](https://github.com/sharadnkp/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
@@ -295,6 +298,7 @@ problem-solving skills.
 | ------- |
 | [0409-longest-palindrome](https://github.com/sharadnkp/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0881-boats-to-save-people](https://github.com/sharadnkp/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [2706-buy-two-chocolates](https://github.com/sharadnkp/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 ## Linked List
 |  |
@@ -418,4 +422,8 @@ problem-solving skills.
 | [0032-longest-valid-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0264-ugly-number-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0678-valid-parenthesis-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/sharadnkp/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
