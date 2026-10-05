@@ -8,8 +8,8 @@ class Solution:
         for ch in s:
             freq[ch] = freq.get(ch, 0) + 1
 
-        for word, frequency in freq.items():
-            heapq.heappush(heap, (-frequency, word))
+        for word, freq in freq.items():
+            heapq.heappush(heap, (-freq, word))
 
         while heap:
             freq1, word1 = heapq.heappop(heap)
@@ -22,14 +22,12 @@ class Solution:
 
                 if freq1 > 0:
                     heapq.heappush(heap, (-freq1, word1))
-
             else:
                 if len(heap) == 0:
                     return ""
 
                 freq2, word2 = heapq.heappop(heap)
                 freq2 = -freq2
-
                 res.append(word2)
                 seat += 1
                 freq2 -= 1
