@@ -37,6 +37,7 @@ problem-solving skills.
 | [0349-intersection-of-two-arrays](https://github.com/sharadnkp/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sharadnkp/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/sharadnkp/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/sharadnkp/leetcode-solutions/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -144,6 +145,7 @@ problem-solving skills.
 | [0347-top-k-frequent-elements](https://github.com/sharadnkp/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sharadnkp/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sharadnkp/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/sharadnkp/leetcode-solutions/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/sharadnkp/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0826-most-profit-assigning-work](https://github.com/sharadnkp/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
@@ -308,6 +310,7 @@ problem-solving skills.
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/sharadnkp/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/sharadnkp/leetcode-solutions/tree/master/0502-ipo) |
 | [0678-valid-parenthesis-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0826-most-profit-assigning-work](https://github.com/sharadnkp/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
@@ -410,6 +413,7 @@ problem-solving skills.
 | [0295-find-median-from-data-stream](https://github.com/sharadnkp/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sharadnkp/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sharadnkp/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/sharadnkp/leetcode-solutions/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/sharadnkp/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/sharadnkp/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
