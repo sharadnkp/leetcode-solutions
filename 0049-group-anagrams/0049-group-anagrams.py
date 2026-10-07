@@ -1,8 +1,9 @@
-from collections import defaultdict
 class Solution:
     def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
-        d = defaultdict(list)
+        d = {}
         for word in strs:
-            key = "".join(sorted(word))
-            d[key].append(word)
+            c = tuple(sorted(word))
+            if c not in d:
+                d[c] = []
+            d[c].append(word)
         return list(d.values())
