@@ -95,6 +95,7 @@ problem-solving skills.
 | [0525-contiguous-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sharadnkp/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/sharadnkp/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0763-partition-labels](https://github.com/sharadnkp/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sharadnkp/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -116,6 +117,7 @@ problem-solving skills.
 | [0295-find-median-from-data-stream](https://github.com/sharadnkp/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/sharadnkp/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/sharadnkp/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0763-partition-labels](https://github.com/sharadnkp/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0826-most-profit-assigning-work](https://github.com/sharadnkp/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0876-middle-of-the-linked-list](https://github.com/sharadnkp/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/sharadnkp/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -178,6 +180,7 @@ problem-solving skills.
 | [0409-longest-palindrome](https://github.com/sharadnkp/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/sharadnkp/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0763-partition-labels](https://github.com/sharadnkp/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0856-score-of-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sharadnkp/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -326,6 +329,7 @@ problem-solving skills.
 | [0409-longest-palindrome](https://github.com/sharadnkp/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/sharadnkp/leetcode-solutions/tree/master/0502-ipo) |
 | [0678-valid-parenthesis-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/sharadnkp/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0826-most-profit-assigning-work](https://github.com/sharadnkp/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/sharadnkp/leetcode-solutions/tree/master/0881-boats-to-save-people) |
