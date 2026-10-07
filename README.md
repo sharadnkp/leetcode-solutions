@@ -22,6 +22,7 @@ problem-solving skills.
 | [0001-two-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/sharadnkp/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/sharadnkp/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/sharadnkp/leetcode-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/sharadnkp/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sharadnkp/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -80,6 +81,7 @@ problem-solving skills.
 | ------- |
 | [0001-two-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sharadnkp/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/sharadnkp/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sharadnkp/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/sharadnkp/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -147,6 +149,7 @@ problem-solving skills.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sharadnkp/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sharadnkp/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/sharadnkp/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -172,6 +175,7 @@ problem-solving skills.
 | [0020-valid-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/sharadnkp/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sharadnkp/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/sharadnkp/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
