@@ -56,6 +56,7 @@ problem-solving skills.
 | [0973-k-closest-points-to-origin](https://github.com/sharadnkp/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sharadnkp/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sharadnkp/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/sharadnkp/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sharadnkp/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sharadnkp/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -437,6 +438,7 @@ problem-solving skills.
 | [0692-top-k-frequent-words](https://github.com/sharadnkp/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/sharadnkp/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/sharadnkp/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1834-single-threaded-cpu](https://github.com/sharadnkp/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 ## Quickselect
 |  |
