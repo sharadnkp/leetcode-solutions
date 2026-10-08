@@ -69,6 +69,7 @@ problem-solving skills.
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1834-single-threaded-cpu](https://github.com/sharadnkp/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 | [1991-find-the-middle-index-in-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sharadnkp/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2109-adding-spaces-to-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sharadnkp/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sharadnkp/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -154,6 +155,7 @@ problem-solving skills.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sharadnkp/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sharadnkp/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sharadnkp/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sharadnkp/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sharadnkp/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Sorting
 |  |
@@ -361,6 +363,7 @@ problem-solving skills.
 | [0826-most-profit-assigning-work](https://github.com/sharadnkp/leetcode-solutions/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/sharadnkp/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sharadnkp/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sharadnkp/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2706-buy-two-chocolates](https://github.com/sharadnkp/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 ## Linked List
 |  |
