@@ -83,6 +83,7 @@ problem-solving skills.
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sharadnkp/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sharadnkp/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sharadnkp/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sharadnkp/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sharadnkp/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -125,6 +126,7 @@ problem-solving skills.
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sharadnkp/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sharadnkp/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sharadnkp/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sharadnkp/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -192,6 +194,7 @@ problem-solving skills.
 | [1834-single-threaded-cpu](https://github.com/sharadnkp/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sharadnkp/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2706-buy-two-chocolates](https://github.com/sharadnkp/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sharadnkp/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
