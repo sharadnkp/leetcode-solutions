@@ -235,6 +235,7 @@ problem-solving skills.
 | [2109-adding-spaces-to-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Queue
 |  |
 | ------- |
