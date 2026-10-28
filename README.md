@@ -92,6 +92,7 @@ problem-solving skills.
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sharadnkp/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sharadnkp/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sharadnkp/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/sharadnkp/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/sharadnkp/leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -382,6 +383,7 @@ problem-solving skills.
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sharadnkp/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sharadnkp/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sharadnkp/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sharadnkp/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -455,6 +457,7 @@ problem-solving skills.
 | [0835-image-overlap](https://github.com/sharadnkp/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/sharadnkp/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sharadnkp/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sharadnkp/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Quicksort
 |  |
 | ------- |
@@ -550,6 +553,7 @@ problem-solving skills.
 | [0264-ugly-number-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0678-valid-parenthesis-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sharadnkp/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sharadnkp/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Timsort
 |  |
 | ------- |
