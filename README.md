@@ -88,6 +88,7 @@ problem-solving skills.
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sharadnkp/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sharadnkp/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sharadnkp/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3665-twisted-mirror-path-count](https://github.com/sharadnkp/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sharadnkp/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sharadnkp/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sharadnkp/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -457,6 +458,7 @@ problem-solving skills.
 | [0835-image-overlap](https://github.com/sharadnkp/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/sharadnkp/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sharadnkp/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3665-twisted-mirror-path-count](https://github.com/sharadnkp/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sharadnkp/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Quicksort
 |  |
@@ -553,6 +555,7 @@ problem-solving skills.
 | [0264-ugly-number-ii](https://github.com/sharadnkp/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0678-valid-parenthesis-string](https://github.com/sharadnkp/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sharadnkp/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3665-twisted-mirror-path-count](https://github.com/sharadnkp/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sharadnkp/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Timsort
 |  |
